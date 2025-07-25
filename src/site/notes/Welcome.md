@@ -4,6 +4,8 @@
 
 I’m using this Digital Garden to publish my Worldbuilding/Plotting shenanigans.
 
+Mostly just for my friends’ eyes but I guess the general public gets to see this too. 
+
 ## Why Publish? 
 
 - It looks cool. 
