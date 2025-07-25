@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-25T15:08:41.709-07:00"}
 ---
 
-Test! 
-# Thoughts
+I’m using this Digital Garden to publish my Worldbuilding/Plotting shenanigans.
 
-## Thoughts
+## Why Publish? 
 
->[!info]
->Welcome to this vault!
+- It looks cool. 
+- I get to share it with friends. 
+- I love making the most out of Obsidian!
