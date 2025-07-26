@@ -22,7 +22,8 @@ I’m only working on one writing project right now: see [[Plotting Details\|Plo
 
 - <mark style="background: #FFB86CA6;">Orange</mark>: revisit later  
 - <mark style="background: #CACFD9A6;">Gray</mark>: Introducing an acronym
-- <mark style="background: #FF5582A6;">Red</mark>: Later corrected. 
+- <mark style="background: #FF5582A6;">Red</mark>: Needs correction/was corrected.
+- <mark style="background: #FFF3A3A6;">Yellow</mark>: Important! 
 
 <br>
 
