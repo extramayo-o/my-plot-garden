@@ -45,3 +45,11 @@ ___
 
 > This part is more important to the immediate story. 
 > How have humans prophesized that the savior of the world will defeat the EoE against the second coming?
+
+- Things change the second time around. 
+- ! This time, it is prophesized that the way to defeat the EoE is to freeze it in time permanently. This would seal the EoE in a chamber at the center of the world, along with the savior, keeping human beings safe from Eff forever. 
+- The remaining amount of Eff in the atmosphere would not be able to circulate, therefore cutting off Eff from the world forever. 
+
+### False Hope? 
+
+- What gives Seth and Mara false hope is the belief that *the world can be saved via method 1.* That maybe, they can assemble all of the weapons and defeat the EoE that way. 
