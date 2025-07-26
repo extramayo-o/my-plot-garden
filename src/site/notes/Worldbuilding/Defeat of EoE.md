@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/worldbuilding/defeat-of-eo-e/","created":"2025-07-25T17:10:06.766-07:00"}
 ---
 
+#worldbuilding #setup 
+
 > More Context: see [[Worldbuilding/Creation Myth\|Creation Myth]]
 ## First Round
 
@@ -21,11 +23,25 @@ They cannot use a weapon embedded with this with too much strength, or for a ver
 ### Battle
 
 Four of the more combat-oriented Gods attack the EoE; the others play support. 
+
 ### Defeat
 
-Despite their efforts, the Gods can’t defeat the EoE and are wiped out. 
+Despite their efforts, the Gods can’t defeat the EoE and are wiped out. I mean their whole squad is killed.  
 
-But in a desperate move, Vengeance puppeteers the bodies of the fallen (all four in one coordinated strike), launching one final, devastating attack against the Essence of Eff. Its consciousness splits into a million different pieces and falls back onto the world <mark style="background: #FFF3A3A6;">as rain</mark>. 
+But in a desperate move, Vengeance puppeteers the bodies of the fallen (all four in one coordinated strike), launching one final, devastating attack against the Essence of Eff. Its consciousness splits into a million different pieces and falls back onto the world <mark style="background: #FFF3A3A6;">as rain</mark>.
 
+Vengeance cannot “puppeteer” [[Worldbuilding/Vessels\|vessels]] of the living: only the dead, or objects. As the dead bodies of the Gods <mark style="background: #FFB86CA6;">“melt” onto their weapons and harden</mark>, Vengeance becomes one with the four weapons, but mostly the one that dealt the final blow. 
 
+#### Ideas
 
+- I think it would be cool if Vengeance had a twin named Justice, and Justice “dealt” the final blow.
+- Rain is pure Eff. Humans can’t tolerate high doses of Eff.  
+- ! But humans have an umbrella now/protected successfully! — like a <mark style="background: #FFB86CA6;">“*promise*” made to humankind</mark>, that they must live by these virtues and strive to make a world a better place.  
+	- But, according to the mainline story, **this is far from the truth.**
+
+___
+
+## Second Round
+
+> This part is more important to the immediate story. 
+> How have humans prophesized that the savior of the world will defeat the EoE against the second coming?
