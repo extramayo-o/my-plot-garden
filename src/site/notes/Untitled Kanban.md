@@ -3,9 +3,10 @@
 ---
 
 
-## fwef
+## #setup Unfinished
 
-- [ ] fwef
+- [ ] [[Worldbuilding/Defeat of EoE\|Defeat of EoE]]
+- [ ] [[Worldbuilding/Vessels\|Vessels]]
 
 
 
