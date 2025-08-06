@@ -32,4 +32,4 @@ I’m only working on one writing project right now: see [[Plotting Details\|Plo
 
 > If the link isn’t working, it means that it’s likely not ready to be shared yet. 
 
-- [[Untitled Kanban\|Untitled Kanban]]
+- [[Plotting\|Plotting]]
