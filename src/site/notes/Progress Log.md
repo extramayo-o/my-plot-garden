@@ -3,4 +3,4 @@
 ---
 
 - **8/6**: Came up with ending, conceptualized +20 more scenes 
-- **8/7**: Fiddling with vault.     
+- **8/7**: Fiddling with vault. A lot of work on the [[Middle.canvas|Middle]] sections of the story—especially some extra attention to [[Characters/Nima\|Nima]]
