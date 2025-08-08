@@ -15,6 +15,10 @@
 - [ ] More/better lore for [[Worldbuilding/Families\|Families]]
 	- Elaborate on their abilities maybe? 
 - [ ] More/better lore for [[Worldbuilding/Political/Countries\|Countries]]
+- [ ] Elaborate on [[Meta/Antagonists\|Antagonists]]— this is something I’m uncertain of. 
+
+___
+
 - [ ] Final Quality Check
 	- [ ] Smooth out countries— [[Map v1.png]]
 	- [ ] Finish character profiles— mostly just [[Characters/Mara\|Mara]] and [[Characters/Seth\|Seth]] but others too
