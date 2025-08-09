@@ -18,4 +18,5 @@
 
 ___
 
-- Next: see [[Prophecy\|Prophecy]]
+- Related: see [[Worldbuilding/Defeat of EoE\|Defeat of EoE]]
+- Next: see [[Worldbuilding/Second Coming\|Second Coming]]

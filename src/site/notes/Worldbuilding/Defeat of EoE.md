@@ -5,6 +5,7 @@
 #worldbuilding #setup 
 
 > More Context: see [[Worldbuilding/Creation Myth\|Creation Myth]]
+> Continuation: see [[Worldbuilding/Second Coming\|Second Coming]]
 ## First Round
 
 Context: the 12 (only because it’s a nice number) Gods that fight against Eff to protect the human race. 
@@ -49,6 +50,10 @@ ___
 - Things change the second time around. 
 - ! This time, it is prophesized that the way to defeat the EoE is to freeze it in time permanently. This would seal the EoE in a chamber at the center of the world, along with the savior, keeping human beings safe from Eff forever. 
 - The remaining amount of Eff in the atmosphere would not be able to circulate, therefore cutting off Eff from the world forever. 
+
+<br>
+
+Note: This part was **heavily modified**. Reference [[Worldbuilding/Second Coming\|Second Coming]] for more information.
 
 ### False Hope? 
 

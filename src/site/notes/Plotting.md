@@ -17,6 +17,18 @@
 - [ ] [[Worldbuilding/The Gods\|The Gods]]
 - [ ] [[Worldbuilding/Magic System\|Magic System]]
 - [ ] [[Worldbuilding/Four Weapons\|Four Weapons]]
+- [ ] [[Map v0.png]]
+- [ ] [[Meta/Defying Fate\|Defying Fate]]
+
+
+## WIP
+
+- [ ] [[Utter Brainstorming.canvas|Utter Brainstorming]]
+- [ ] [[Final Act.canvas|Final Act]]
+- [ ] [[Meta/Items of Interest\|Items of Interest]]
+- [ ] [[Meta/Main Cast\|Main Cast]]
+- [ ] 🌃 [[Meta/Antagonists\|Antagonists]]
+- [ ] [[Middle.canvas|Middle]]
 
 
 
