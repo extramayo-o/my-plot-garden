@@ -32,4 +32,5 @@ I’m only working on one writing project right now: see [[Plotting Details\|Plo
 
 > If the link isn’t working, it means that it’s likely not ready to be shared yet. 
 
-- [[Plotting\|Plotting]]
+- [[Plotting\|Plotting]]— this is where I sort my most important files. 
+- [[Writing/Script/Script\|Script]]— this is where to read my dialogue/drafts. 
