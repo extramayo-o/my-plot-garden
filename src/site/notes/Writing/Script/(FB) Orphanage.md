@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/writing/script/fb-orphanage/","tags":["scene-draft"],"created":"2025-08-12T13:36:25.719-07:00"}
+---
+
+>[!write] 
+>The orphanage is cold, sterile, and institutional, far detached from the lively villages in Southern Monauka or the bustling ports of Northern Monauka. For some reason, it’s located in the judicial district of the country—not the best place for young people to be raised. And certainly, many have poked fun at this. ”Monaukan orphanages are like prisons”, they jest. “In fact, they’re right next door.” The orphanage teachers might also add “… so if you don’t behave, that’s where you’ll end up going when you turn 18!” No wonder the kids from the orphanage were so well-behaved. It was a 5 minute walk to the country’s largest prison.  
+>Life there wasn’t extravagant by any means, but the kids there were grateful that the orphanage was *Monaukan.* That their government had enough money to provide for them, to give them an education, to give them a chance at a normal adult life, even if that entailed 8 years of mandatory service work upon turning 18…
+>Tonight, Seth remembers the view from the top bunk at night. The same wooden beamed ceiling covered with wispy spiderwebs, the hole in the roof that leaked droplets of water onto his right foot, that same sight, every night, for 17 years, the one he somehow *longs* for, for a life that was far more simple but far more dull, for a life devoid of both hope and despair. How could he want it back so desperately, even though so many painful memories occurred there? 
+>Seth tosses and turns in his sleep. He’s having the same dream again, the same one that’s plagued him for months now. But by the morning he’ll forget and the orphanage will be nothing more than an uncomfortable memory. 
