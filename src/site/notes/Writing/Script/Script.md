@@ -15,3 +15,4 @@
 2. [[Writing/Script/Introducing the Creation Myth\|Introducing the Creation Myth]]
 3. [[Writing/Script/Meet MC and Mara\|Meet MC and Mara]]
 4. [[Writing/Script/Jumpscared by Sentient Weapon\|Jumpscared by Sentient Weapon]]
+5. [[Writing/Script/(FB) Orphanage\|(FB) Orphanage]]
