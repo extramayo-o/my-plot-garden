@@ -102,7 +102,7 @@
 
 - Mara: “Seth, I…”
 - Mara: “I had this voice in my head… It kept on telling me that I was the savior, meant to rescue the people of this land…”
-- MC: “NO! That— That doesn’t make any sense. 
+- MC: “NO! That— That doesn’t make any sense. Maybe it could just be a prank.”  
 - Mara: “E-exactly. I’m sure it was just nonsense and that we’re just very tired tonight… We should leave.”
 - MC: “Right… Let’s go to sleep.”
 

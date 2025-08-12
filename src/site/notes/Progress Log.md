@@ -5,6 +5,7 @@
 - **8/6**: Came up with ending, conceptualized +20 more scenes 
 - **8/7**: Fiddling with vault. A lot of work on the [[Middle.canvas|Middle]] sections of the story—especially some extra attention to [[Characters/Nima\|Nima]]
 - **8/8**: A lot of work was done! I added more [[Meta/Antagonists\|antagonists]], planned out character development events for [[Characters/Seth\|Seth]] and [[Characters/Mara\|Mara]], and elaborated on events I have planned for the story. God bless Longform. 
+- **8/12**: The day before I leave for Washington D.C. I wrote out several other scenes. 
 
 
 <br>

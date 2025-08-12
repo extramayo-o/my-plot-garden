@@ -8,7 +8,7 @@
 
 “Indeed, Gods were made *after Eff*, not the other way around. It took Naunapocian researchers a while to figure *that* one out, haha.” He pauses and regains composure. “Anyways, Gods were beings made of Eff that *used* Eff to liven up the land. They made organisms and life forms, including human beings. And the Essence of Eff, that primordial being, eliminated those beings that stepped out of line. That had too much power in the world.
 
-“When the Gods made human beings, it was to challenge the natural order of the world. But they soon realized that they themselves had gone too far. These intelligent beings overpowered all other life forms of the land. They created hierarchies and made societies and then excluded people from them. They were ruthless, but they were survivors.
+“When the Gods made human beings, it was to challenge the natural order of the world. But they soon realized that they themselves had gone too far. These intelligent beings overpowered all other life forms of the land. They created hierarchies and made societies and then excluded people from them, all in the name of survival of the fittess. They were ruthless, but they were *intelligent*.
 
 “They were next to be eliminated by the Essence of Eff, due to disrupting the natural order of the land. But, the Gods had taken quite a liking to these beings, seeing their ability to be smart, caring, and compassionate.
 
